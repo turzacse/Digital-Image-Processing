@@ -13,4 +13,4 @@ This project demonstrates how to perform various bitwise operations such as **AN
 ---
 
 ~bash
-[Click here to Download](https://github.com/turzacse/Digital-Image-Processing.git/archive/refs/heads/main.zip)
+[Click here to View](https://fahimmontasirturza.web.app)
