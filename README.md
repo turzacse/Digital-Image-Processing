@@ -1,13 +1,32 @@
 # Image Bitwise Operations using OpenCV
 
-This project demonstrates how to perform bitwise operations such as **AND**, **OR**, **XOR**, and **NOT** on two images using Python and OpenCV. The images used in this project are `couple.png` and `couple2.png`.
+This project demonstrates how to perform various bitwise operations such as **AND**, **OR**, **XOR**, and **NOT** on two images using Python and OpenCV. The images used in this project are `couple.png` and `couple2.png`.
+
+---
 
 ## Features:
-- Load and display two images.
-- Resize images if necessary to make their dimensions match.
+- Load, display, and resize images.
 - Perform bitwise operations: **AND**, **OR**, **XOR**, and **NOT**.
-- Display and save the results of each operation.
-- Download processed images if using Google Colab.
+- Save the processed images to disk.
+- Download processed images when using Google Colab.
+
+---
+
+## Table of Contents:
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Image Loading](#image-loading)
+  - [Image Display](#image-display)
+  - [Image Resizing](#image-resizing)
+  - [Bitwise Operations](#bitwise-operations)
+    - [Bitwise AND](#bitwise-and)
+    - [Bitwise OR](#bitwise-or)
+    - [Bitwise XOR](#bitwise-xor)
+    - [Bitwise NOT](#bitwise-not)
+  - [Save Images](#save-images)
+  - [Download Images in Colab](#download-images-in-colab)
+- [Bitwise Operations Explained](#bitwise-operations-explained)
+- [License](#license)
 
 ---
 
@@ -15,17 +34,13 @@ This project demonstrates how to perform bitwise operations such as **AND**, **O
 
 ### Prerequisites
 
-You will need:
-- Python 3.x installed on your machine.
-- The following Python packages:
+Make sure you have the following installed:
+- Python 3.x
+- The following Python libraries:
   - `opencv-python`
   - `numpy`
-  - `matplotlib` (optional for extra visualization)
-
-### Step 1: Clone the Repository
-
-To get started, clone this repository to your local machine:
+  
+You can install the dependencies using pip:
 
 ```bash
-git clone [https://github.com/turzacse/your-repo-name.git](https://github.com/turzacse/Digital-Image-Processing.git)
-cd Digital-Image-Processing.git
+pip install opencv-python numpy
