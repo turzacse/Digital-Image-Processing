@@ -12,35 +12,5 @@ This project demonstrates how to perform various bitwise operations such as **AN
 
 ---
 
-## Table of Contents:
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Image Loading](#image-loading)
-  - [Image Display](#image-display)
-  - [Image Resizing](#image-resizing)
-  - [Bitwise Operations](#bitwise-operations)
-    - [Bitwise AND](#bitwise-and)
-    - [Bitwise OR](#bitwise-or)
-    - [Bitwise XOR](#bitwise-xor)
-    - [Bitwise NOT](#bitwise-not)
-  - [Save Images](#save-images)
-  - [Download Images in Colab](#download-images-in-colab)
-- [Bitwise Operations Explained](#bitwise-operations-explained)
-- [License](#license)
-
----
-
-## Installation
-
-### Prerequisites
-
-Make sure you have the following installed:
-- Python 3.x
-- The following Python libraries:
-  - `opencv-python`
-  - `numpy`
-  
-You can install the dependencies using pip:
-
-```bash
-pip install opencv-python numpy
+~bash
+[Click here to Download](https://github.com/turzacse/Digital-Image-Processing.git)
